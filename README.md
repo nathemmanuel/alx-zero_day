@@ -1,1 +1,3 @@
-My first unguarded ALX project
+# My first unguarded ALX project
+
+The primary language used was the shell
